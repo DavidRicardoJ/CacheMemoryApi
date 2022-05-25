@@ -3,4 +3,4 @@
 
 
 
-<img src="https://github.com/DavidRicardoJ/CacheMemoryApi/blob/master/src/Properties/Readme/request.gif" width="128"/>
+<img src="https://github.com/DavidRicardoJ/CacheMemoryApi/blob/master/src/Properties/Readme/request.gif" width="900"/>
