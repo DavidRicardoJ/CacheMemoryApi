@@ -1,4 +1,4 @@
 # dotnet-6-caching-main
 
 
-![alt text]([http://url/to/img.png](https://github.com/DavidRicardoJ/CacheMemoryApi/blob/master/src/Properties/Readme/request.gif))
+![Alt text]([relative/path/to/img.jpg](https://github.com/DavidRicardoJ/CacheMemoryApi/blob/master/src/Properties/Readme/request.gif)?raw=true "Title")
